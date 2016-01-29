@@ -26,7 +26,7 @@
     "illuminate/filesystem": "~4.2",
     "illuminate/events": "~4.2",
     "illuminate/remote": "~4.2",
-    "illuminate/log": "~4.2",
+    "illuminate/log": "~5.0",
     "patchwork/utf8": "~1.1",
     "d11wtq/boris": "~1.0.8",
     "kzykhys/parallel": "~0.1.0",
